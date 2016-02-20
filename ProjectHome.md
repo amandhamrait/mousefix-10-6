@@ -1,0 +1,3 @@
+This project has versions of both Lavacat's iMouseFix and Richard Bentley's Mousefix updated to work properly with 10.6. This project with most likely never have any releases beyond this first one, but if you require Mac OS 10.6 SDK built (and probably intel-10.5 compatible) versions of either of these very useful (but tiny) applications, you can find them here. The code will actually be hosted at github, but binaries can be found here.
+
+Sources can also be found at http://github.com/infowolfe/iMouseFix and http://github.com/infowolfe/mousefix
